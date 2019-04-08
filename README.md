@@ -1,5 +1,8 @@
 # Speech Model Pre-training for End-to-End Spoken Language Understanding
 This repo contains the code for the paper "Speech Model Pre-training for End-to-End Spoken Language Understanding".
+The paper describes the Fluent Speech Commands (released by [Fluent.AI](https://www.fluent.ai/)), which is a free speech command dataset for Spoken Language Understanding (SLU). 
+[Click here to download it](http://www.fluent.ai/research/fluent-speech-commands/). 
+It also explores useful pre-training strategies for end-to-end SLU.
 
 If you have any questions about this code or have problems getting it to work, please send me an email at ```<the email address listed for me in the paper>```.
 
